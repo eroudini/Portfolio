@@ -3,7 +3,7 @@ import {useState} from 'react'
 import profile from '../assets/profile.svg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {  faGithub, faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
-import hr from '../assets/curve-hr.svg'
+
 
 export default function Hiro () {
 
