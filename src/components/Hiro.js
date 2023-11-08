@@ -2,8 +2,7 @@ import {useState} from 'react'
 
 import profile from '../assets/profile.svg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import {faCircleArrowRight, } from "@fortawesome/free-solid-svg-icons";
-import {  faGithub, faInstagram, faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
+import {  faGithub, faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
 import hr from '../assets/curve-hr.svg'
 
 export default function Hiro () {
@@ -39,16 +38,12 @@ export default function Hiro () {
 
                     J'ai également réalisé plusieurs projets personnels tout au long de mon cursus.</p>
                 </div>
-                {/* <a href='http://blog.dama.zip' className='mt-2 block'>Read My Blog <FontAwesomeIcon className='ml-2' icon={faCircleArrowRight}/> </a> */}
                 <br></br>
                 
                 <ul className='flex mt-2 gap-4 items-center'>
                    <li>
                         <a href='https://github.com/eroudini' rel="noreferrer" target="_blank"><FontAwesomeIcon size='2xl' icon={faGithub} /></a>
                    </li> 
-                    {/* <li>
-                        <a href='https://instagram.com/damaasth' rel="noreferrer" target="_blank"><FontAwesomeIcon size='2xl' icon={faInstagram} /></a>
-                    </li> */}
                     <li>
                         <a href='www.linkedin.com/in/eroudini' rel="noreferrer" target="_blank"><FontAwesomeIcon size='2xl' icon={faLinkedinIn} /></a>
                     </li>
