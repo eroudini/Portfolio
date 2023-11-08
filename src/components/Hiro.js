@@ -38,7 +38,7 @@ export default function Hiro () {
 
                     J'ai également réalisé plusieurs projets personnels tout au long de mon cursus.</p>
                 </div>
-                <br></br>
+               
                 
                 <ul className='flex mt-2 gap-4 items-center'>
                    <li>
@@ -47,10 +47,10 @@ export default function Hiro () {
                     <li>
                         <a href='www.linkedin.com/in/eroudini' rel="noreferrer" target="_blank"><FontAwesomeIcon size='2xl' icon={faLinkedinIn} /></a>
                     </li>
-                </ul>
+                </ul>             
             </div>
-            <img src={hr} className="w-full md:h-2 absolute bottom-0" alt="hr" />
-        </div>
-        </>
+        </div> <br></br>
+        
+        </>    
     )
 }
