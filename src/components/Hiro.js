@@ -25,11 +25,19 @@ export default function Hiro () {
             </div>
             <div className='md:w-3/6' data-aos="fade-right" data-aos-duration="1000" data-aos-offset="100" >
                 <div className="flex flex-col w-full mt-8">
-                    <h1 className="text-xl text-gray-400">Hellooo World 👋, Je me présente</h1>
+                    <h1 className="text-xl text-gray-400">Hellooo World 👋</h1>
                     <h1 className="text-2xl font-bold">Eroudini Abdillah</h1>
                     <p class="text-xl font-bold text-gray-300">Developpeur web et mobile</p>
-                    <p className="text-md font-light text-gray-400 ">Je suis actuellement en formation pour devenir développeur web et mobile.
-                     J'apprend plusieurs langages de programmation tel que HTML, CSS, en passant par Javascript, ou encore PHP. J'ai également réalisé plusieurs projets personnels.</p>
+                    <p className="text-md font-light text-gray-400 ">
+                    Avant toute chose, je me présente 😄. <br></br> 
+                   
+                    J'ai 22 ans et je suis passionné par l'informatique depuis toujours. Je me forme actuellement au développement web et mobile à la CCI. 
+                    Je vous présente mon portfolio qui retrace mon parcours professionnel. <br></br>
+
+                    Toute au long de cette formation, j'apprends plusieurs technologies telles que HTML, CSS, en passant par JavaScript, ou encore PHP,
+                     mais également les frameworks JavaScript tels que Vue.
+
+                    J'ai également réalisé plusieurs projets personnels tout au long de mon cursus.</p>
                 </div>
                 {/* <a href='http://blog.dama.zip' className='mt-2 block'>Read My Blog <FontAwesomeIcon className='ml-2' icon={faCircleArrowRight}/> </a> */}
                 <br></br>
