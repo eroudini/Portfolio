@@ -24,7 +24,7 @@ export default function Hiro () {
             </div>
             <div className='md:w-3/6' data-aos="fade-right" data-aos-duration="1000" data-aos-offset="100" >
                 <div className="flex flex-col w-full mt-8">
-                    <h1 className="text-xl text-gray-400">Hellooo World 👋</h1>
+                    <h1 className="text-xl text-gray-400">Hellooo World 👋, I'm</h1>
                     <h1 className="text-2xl font-bold">Eroudini Abdillah</h1>
                     <p class="text-xl font-bold text-gray-300">Developpeur web et mobile</p>
                     <p className="text-md font-light text-gray-400 ">
