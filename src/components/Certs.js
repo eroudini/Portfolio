@@ -4,6 +4,7 @@ import cap1 from "../assets/certs/cap1.png"
 import cap2 from "../assets/certs/cap2.png"
 import cap3 from "../assets/certs/cap3.png"
 import cap4 from "../assets/certs/cap4.jpg"
+import cap5 from "../assets/certs/cap5.png"
 import hr from "../assets/curve-hr.svg"
 
 
@@ -20,6 +21,7 @@ export default function Certs(){
                 <CertCard name="Wolf-Gang, intégration en HTML et CSS" img={cap2} date="Juillet 2023" />
                 <CertCard name="Devlove, Une BDD pour un site de rencontre (fictif) réaliser sur MySql Workench" img={cap3} date="Septembre 2023" />
                 <CertCard name="Chat-Box, Une petite messagerie en PHP afin de m'exercer d'avantage sur les SESSIONS" img={cap4} date="Octobre 2023" />
+                <CertCard name="Amazon-Clone, Un clone du célèbre E-commerce en HTML et CSS" img={cap5} date="Novembre 2023" />
             </div>
             <img src={hr} className="w-full mt-8 md:h-2" alt="hr" />
         </div>

@@ -14,6 +14,7 @@ import symfony from "../assets/skills/symfony.svg"
 import linux from "../assets/skills/linux.svg"
 import reactIcon from "../assets/skills/react.svg"
 import git from "../assets/skills/git.svg"
+import figma from "../assets/skills/figma.svg"
 
 import hr from "../assets/curve-hr.svg"
 
@@ -45,6 +46,7 @@ export default function Skills() {
                 <SkillCard name="Symfony" img={symfony} />
                 <SkillCard name="React"  img={reactIcon} />
                 <SkillCard name="Git"  img={git} />
+                <SkillCard name="Figma" img={figma} />
                 </Slider>
             </div>
             <img src={hr} className="w-full mt-8 md:h-3" alt="hr" />
