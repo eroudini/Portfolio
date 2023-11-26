@@ -19,7 +19,7 @@ export default function Certs(){
             <div className="grid grid-cols-1 md:grid-cols-3 justify-center mt-4 gap-5">
                 <CertCard name="Planete web un projet statique en HTML et CSS" img={cap1} date="Juin 2023" />
                 <CertCard name="Wolf-Gang, intégration en HTML et CSS" img={cap2} date="Juillet 2023" />
-                <CertCard name="Devlove, Une BDD pour un site de rencontre (fictif) réaliser sur MySql Workench" img={cap3} date="Septembre 2023" />
+                <CertCard name="Devlove, Une BDD pour un site de rencontre (fictif) réaliser sur MySql Workbench" img={cap3} date="Septembre 2023" />
                 <CertCard name="Chat-Box, Une petite messagerie en PHP afin de m'exercer d'avantage sur les SESSIONS" img={cap4} date="Octobre 2023" />
                 <CertCard name="Amazon-Clone, Un clone du célèbre E-commerce en HTML et CSS" img={cap5} date="Novembre 2023" />
             </div>
