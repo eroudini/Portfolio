@@ -30,11 +30,11 @@ export default function Hiro () {
                     <p className="text-md font-light text-gray-400 ">
                     Avant toute chose, je me présente 😄. <br></br> 
                    
-                    J'ai 22 ans et je suis passionné par l'informatique depuis toujours. Je me forme actuellement au développement web et mobile à la CCI. 
+                    J'ai 22 ans et je suis passionné par l'informatique depuis toujours. Je me forme actuellement au développement web et mobile à la CCI pour un bac +2. 
                     Je vous présente mon portfolio qui retrace mon parcours professionnel. <br></br>
 
-                    Toute au long de cette formation, j'apprends plusieurs technologies telles que HTML, CSS, en passant par JavaScript, ou encore PHP,
-                     mais également les frameworks JavaScript tels que Vue.
+                    Toute au long de cette formation, j'apprends plusieurs technologies telles que HTML, CSS, en passant par Javascript, ou encore PHP,
+                     mais également les frameworks Javascript tels que Vue.
 
                     J'ai également réalisé plusieurs projets personnels tout au long de mon cursus.</p>
                 </div>
